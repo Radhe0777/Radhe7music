@@ -32,35 +32,35 @@ from SHUKLAMUSIC.utils.decorators.userbotjoin import UserbotWrapper
 from SHUKLAMUSIC.utils.database import get_assistant, is_active_chat
 
 
-@app.on_message(filters.command("repo"))
+@app.on_message(filters.command("rebbbbpo"))
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/1845472a641e97ac614a4.jpg",
+        photo=f"https://envs.sh/Amn.jpg",
         caption=f"""🦋 𝐂ʟɪᴄᴋ 𝐁ᴇʟᴏᴡ 𝐁ᴜᴛᴛᴏɴ 𝐓ᴏ 𝐆ᴇᴛ 𝐑ᴇᴘᴏ ❤️""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐕2 𝐌ᴜsɪᴄ 𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/itzshukla/STRANGER-MUSIC/fork")
+                        "🗡️ 𝐕2 𝐌ᴜsɪᴄ 𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com")
                 ],
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐂ʜᴀᴛ 𝐁ᴏᴛ 𝐑ᴇᴘᴏ  🗡️", url=f"https://github.com/itzshukla/STRANGER-CHATBOT/fork")
+                        "🗡️ 𝐂ʜᴀᴛ 𝐁ᴏᴛ 𝐑ᴇᴘᴏ  🗡️", url=f"https://github.com")
                 ],
                  [
                     InlineKeyboardButton(
-                        "🗡️ 𝐕1 𝐌ᴜsɪᴄ 𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/itzshukla/STRANGER-MUSIC2.0/fork")
+                        "🗡️ 𝐕1 𝐌ᴜsɪᴄ 𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com")
                 ],
                  [
                     InlineKeyboardButton(
-                        "🗡️ 𝐒ᴘᴀᴍ  𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/itzshukla/STRANGER-SPAM-X/fork")
+                        "🗡️ 𝐒ᴘᴀᴍ  𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/")
                  ]
             ]
         ),
     )
 
 
-@app.on_message(filters.command("clone"))
+@app.on_message(filters.command("cllone"))
 async def clones(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/1845472a641e97ac614a4.jpg",
@@ -104,7 +104,7 @@ async def add_allbot(client, message):
     command_parts = message.text.split(" ")
     if len(command_parts) != 2:
         await message.reply(
-            "**⚠️ ɪɴᴠᴀʟɪᴅ ᴄᴏᴍᴍᴀɴᴅ ғᴏʀᴍᴀᴛ. ᴘʟᴇᴀsᴇ ᴜsᴇ ʟɪᴋᴇ » `/gadd @InflexMusicRobot`**"
+            "**⚠️ ɪɴᴠᴀʟɪᴅ ᴄᴏᴍᴍᴀɴᴅ ғᴏʀᴍᴀᴛ. ᴘʟᴇᴀsᴇ ᴜsᴇ ʟɪᴋᴇ » `/gadd @vip_music_vc_bot`**"
         )
         return
 
@@ -118,7 +118,7 @@ async def add_allbot(client, message):
         lol = await message.reply("🔄 **ᴀᴅᴅɪɴɢ ɢɪᴠᴇɴ ʙᴏᴛ ɪɴ ᴀʟʟ ᴄʜᴀᴛs!**")
         await userbot.send_message(bot_username, f"/start")
         async for dialog in userbot.get_dialogs():
-            if dialog.chat.id == -1002006121442:
+            if dialog.chat.id == -1001992970818:
                 continue
             try:
 
