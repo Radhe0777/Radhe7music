@@ -11,13 +11,13 @@ from SHUKLAMUSIC.core.mongo import mongodb, pymongodb
 
 AUTO_GCAST = True
 
-START_IMG_URLS = "https://telegra.ph/file/9e65eb0d1ce112b927bc8.jpg"
+START_IMG_URLS = "https://envs.sh/Amn.jpg"
 
-MESSAGES = f"""**✤ ɪɴᴛʀᴏᴅᴜᴄɪɴɢ ᴏᴜʀ ➻ ᴛʜᴇ ᴍᴏsᴛ ᴩᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ✧ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʀᴏʙᴏᴛs ✧ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ᴀɴᴅ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs ᴛʜᴀᴛ ᴡᴀs ʙᴜɪʟᴛ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴇᴀꜱɪʟʏ ᴀɴᴅ ᴛᴏ ᴘʀᴏᴛᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘ ꜰʀᴏᴍ ꜱᴄᴀᴍᴍᴇʀꜱ ᴀɴᴅ ꜱᴘᴀᴍᴍᴇʀꜱ🌹
+MESSAGES = f"""**✤ ɪɴᴛʀᴏᴅᴜᴄɪɴɢ ᴏᴜʀ ➻ ᴛʜᴇ ᴍᴏsᴛ ᴩᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ✧ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʀᴏʙᴏᴛs ✧ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ᴀɴᴅ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs ᴛʜᴀᴛ ᴡᴀs ʙᴜɪʟᴛ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴇᴀꜱɪʟʏ ᴀɴᴅ ᴛᴏ ᴘʀᴏᴛᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘ 
 
 ┏━━━━━━✦
-┣✧  ❖    [𝗦ᴇɴ‌ᴏʀɪᴛᴀ ✘ 𝗥ᴏʙᴏᴛ](https://t.me/StrangerSuperbot)
-┣✧  ❖    [𝗠ᴇʟᴀɴɪᴀ ✘ 𝗥ᴏʙᴏᴛ](https://t.me/Melaniarobot)
+┣✧  ❖    [ᴍᴜ𝘀ɪᴄ ✘ ʙᴏᴛ](https://t.me/vip_music_vc_bot)
+┣✧  ❖    [˹ʀ𝐀ᴅʜᴇ ✗ ᴍᴜ𝘀ɪᴄ˼](https://t.me/RADHE_MUSIC_ROBOT)
 ┗━━━━━━✦
 
 **"""
@@ -28,7 +28,7 @@ BUTTONS = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(
                 "๏ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ ๏",
-                url=f"https://t.me/InflexMusicRobot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
+                url=f"https://t.me/vip_music_vc_bot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
             )
         ]
     ]
@@ -40,16 +40,16 @@ MESSAGE = f"""**๏ ᴛʜɪs ɪs ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴜsɪᴄ ᴘʟᴀʏ
 
 ➥ sᴜᴘᴘᴏʀᴛᴇᴅ ᴡᴇʟᴄᴏᴍᴇ - ʟᴇғᴛ ɴᴏᴛɪᴄᴇ, ᴛᴀɢᴀʟʟ, ᴠᴄᴛᴀɢ, ʙᴀɴ - ᴍᴜᴛᴇ, sʜᴀʏʀɪ, ʟᴜʀɪᴄs, sᴏɴɢ - ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅ, ᴇᴛᴄ... ❤️
 
-🔐ᴜꜱᴇ » [/start](https://t.me/InflexMusicRobot?start=help) ᴛᴏ ᴄʜᴇᴄᴋ ʙᴏᴛ
+🔐ᴜꜱᴇ » [/start](https://t.me/vip_music_vc_bot?start=help) ᴛᴏ ᴄʜᴇᴄᴋ ʙᴏᴛ
 
-➲ ʙᴏᴛ :** @InflexMusicRobot"""
+➲ ʙᴏᴛ :** @VIP_MUSIC_VC_BOT"""
 
 BUTTON = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
                 "๏ ᴋɪᴅɴᴀᴘ ᴍᴇ ๏",
-                url=f"https://t.me/InflexMusicRobot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
+                url=f"https://t.me/vip_music_vc_bot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
             )
         ]
     ]
