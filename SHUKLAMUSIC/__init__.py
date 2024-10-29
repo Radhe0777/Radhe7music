@@ -27,4 +27,4 @@ Resso = RessoAPI()
 Telegram = TeleAPI()
 YouTube = YouTubeAPI()
 
-APP = "InflexMusicRobot"  # connect music api key "Dont change it"
+APP = "Vip_music_vc_bot"  # connect music api key "Dont change it"
