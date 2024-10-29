@@ -15,16 +15,16 @@ app.on_message(
     & filters.group)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/1845472a641e97ac614a4.jpg",
-        caption=f"""🥀 𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞 𝐅𝐨𝐫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐎𝐰𝐧𝐞𝐫 🥀""",
+        photo=f"https://envs.sh/Amn.jpg",
+        caption=f""" 𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞 𝐅𝐨𝐫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐎𝐰𝐧𝐞𝐫 """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "▪️𝐎ᴡɴᴇʀ▪️", url=f"https://t.me/SHIVANSHDEVS")
+                        "𝐎ᴡɴᴇʀ", url=f"https://t.me/rishu1286")
                 ],
                 [InlineKeyboardButton(
-                        "▪️𝐎ᴡɴᴇʀ▪️", url=f"https://t.me/vvipSHASHANK")
+                        "𝐎ᴡɴᴇʀ", url=f"https://t.me/ll_RADHE7_ll")
             ]
             ]
         ),
@@ -35,16 +35,16 @@ async def help(client: Client, message: Message):
     & filters.group)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/1845472a641e97ac614a4.jpg",
-        caption=f"""🥀 𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞 𝐅𝐨𝐫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐎𝐰𝐧𝐞𝐫 🥀""",
+        photo=f"https://envs.sh/Amn.jpg",
+        caption=f"""𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞 𝐅𝐨𝐫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐎𝐰𝐧𝐞𝐫 """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "▪️ 𝐎ᴡɴᴇʀ▪️", url=f"https://t.me/SHIVANSHDEVS")
+                        "𝐎ᴡɴᴇR", url=f"https://t.me/rishu1286")
                 ],
                 [InlineKeyboardButton(
-                        "▪️𝐎ᴡɴᴇʀ▪️", url=f"https://t.me/vvipSHASHANK")
+                        "𝐎ᴡɴᴇʀ", url=f"https://t.me/ll_RADHE7_ll")
             ]
             ]
         ),
@@ -55,16 +55,16 @@ async def help(client: Client, message: Message):
     & filters.private)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/1845472a641e97ac614a4.jpg",
-        caption=f"""🥀 𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞 𝐅𝐨𝐫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐎𝐰𝐧𝐞𝐫 🥀""",
+        photo=f"https://envs.sh/Amn.jpg",
+        caption=f"""𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞 𝐅𝐨𝐫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐎𝐰𝐧𝐞𝐫 """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "▪️𝐎ᴡɴᴇʀ▪️", url=f"https://t.me/SHIVANSHDEVS")
+                        "𝐎ᴡɴᴇʀ", url=f"https://t.me/rishu1286")
                 ],
                 [InlineKeyboardButton(
-                        "▪️𝐎ᴡɴᴇʀ▪️", url=f"https://t.me/vvipSHASHANK")
+                        "𝐎ᴡɴᴇʀ", url=f"https://t.me/ll_RADHE7_ll")
             ]
             ]
         ),
