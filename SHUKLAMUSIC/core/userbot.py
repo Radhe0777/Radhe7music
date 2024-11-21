@@ -66,8 +66,8 @@ class Userbot(Client):
             await self.one.start()
             try:
                 await self.one.join_chat("Rishuxbot")
-                await self.one.join_chat("Vip_robotz")
-                await self.one.join_chat("Nenobots")
+                await self.one.join_chat("DP_WORLD7")
+                await self.one.join_chat("ll_BOTCHAMBER_ll")
                 await self.one.join_chat("Ur_rishu_143")
 
             except:
@@ -97,8 +97,8 @@ class Userbot(Client):
             try:
                 await self.two.join_chat("Ur_rishu_143")
                 await self.two.join_chat("Rishuxbot")
-                await self.two.join_chat("Nenobots")
-                await self.two.join_chat("Vip_robotz")
+                await self.two.join_chat("DP_WORLD7")
+                await self.two.join_chat("ll_BOTCHAMBER_ll")
             except:
                 pass
             assistants.append(2)
@@ -119,10 +119,10 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("Vip_robotz")
+                await self.three.join_chat("ll_BOTCHAMBER_ll")
                 await self.three.join_chat("Ur_rishu_143")
                 await self.three.join_chat("Rishuxbot")
-                await self.three.join_chat("Nenobots")
+                await self.three.join_chat("DP_WORLD7")
             except:
                 pass
             assistants.append(3)
@@ -145,9 +145,9 @@ class Userbot(Client):
             await self.four.start()
             try:
                 await self.four.join_chat("Rishuxbot")
-                await self.four.join_chat("Vip_robotz")
+                await self.four.join_chat("DP_WORLD7")
                 await self.four.join_chat("Ur_rishu_143")
-                await self.four.join_chat("Nenobots")
+                await self.four.join_chat("ll_BOTCHAMBER_ll")
             except:
                 pass
             assistants.append(4)
@@ -171,8 +171,8 @@ class Userbot(Client):
             try:
                 await self.five.join_chat("Ur_rishu_143")
                 await self.five.join_chat("Rishuxbot")
-                await self.five.join_chat("Nenobots")
-                await self.five.join_chat("Vip_robotz")
+                await self.five.join_chat("DP_WORLD7")
+                await self.five.join_chat("ll_BOTCHAMBER_ll")
             except:
                 pass
             assistants.append(5)
