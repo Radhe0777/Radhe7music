@@ -112,17 +112,17 @@ async def ping_com(client, message: Message, _):
                 ],
                 [
                     InlineKeyboardButton(
-                        text="❍ 𝐒ᴜᴘᴘᴏʀᴛ ❍",
-                        url=f"https://t.me/ur_support07",
+                        text="⦿ 𝐒ᴜᴘᴘᴏʀᴛ ⦿",
+                        url=f"https://t.me/BOT_SUPPORTGROUP",
                     ),
                     InlineKeyboardButton(
-                        text="❍ 𝐔ᴘᴅᴀᴛᴇ ❍",
-                        url=f"https://t.me/ur_rishu_143",
+                        text="⦿ 𝐔ᴘᴅᴀᴛᴇ ⦿",
+                        url=f"https://t.me/ll_BOTCHAMBER_ll",
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        text="❍ 𝐇ᴇʟᴘ ❍", url=f"https://t.me/{app.username}?start=help"
+                        text="⦿ 𝐇ᴇʟᴘ ⦿", url=f"https://t.me/{app.username}?start=help"
                     )
                 ],
             ]
