@@ -570,15 +570,15 @@ def panel_markup_clone(_, vidid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="❍ 𝐔ᴘᴅᴀᴛᴇ ❍", url=f"https://t.me/UR_RISHU_143"
+                text="🚀 𝐔ᴘᴅᴀᴛᴇ", url=f"https://t.me/ll_BOTCHAMBER_ll"
             ),
             InlineKeyboardButton(
-                text="❍ 𝐒ᴜᴘᴘᴏʀᴛ ❍", url=f"https://t.me/Ur_support07"
+                text="🍷 𝐒ᴜᴘᴘᴏʀᴛ", url=f"https://t.me/BOT_SUPPORTGROUP"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="❍ 𝐏ʟᴀʏʟɪ𝐬ᴛ ❍", callback_data=f"shukla_playlist {vidid}"
+                text="➕ 𝐏ʟᴀʏʟɪ𝐬ᴛ", callback_data=f"shukla_playlist {vidid}"
             ),
         ],
     ]
