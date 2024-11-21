@@ -110,24 +110,24 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="❍ 𝐏ʟᴀʏʟɪ𝐬ᴛ ❍", callback_data=f"shukla_playlist {videoid}"
+                text="➕ 𝐏ʟᴀʏʟɪ𝐬ᴛ", callback_data=f"shukla_playlist {videoid}"
             ),
             InlineKeyboardButton(
-                text="❍ 𝐂ᴏɴᴛʀᴏʟ ❍",
+                text="♻️ 𝐂ᴏɴᴛʀᴏʟ",
                 callback_data=f"Pages Back|3|{videoid}|{chat_id}",
             ),
         ],
         [
             InlineKeyboardButton(
-                text="❍ 𝐔ᴘᴅᴀᴛᴇ ❍", url=f"https://t.me/UR_RISHU_143"
+                text="🚀 𝐔ᴘᴅᴀᴛᴇ", url=f"https://t.me/ll_BOTCHAMBER_ll"
             ),
             InlineKeyboardButton(
-                text="❍ 𝐒ᴜᴘᴘᴏʀᴛ ❍", url=f"https://t.me/Ur_support07"
+                text="🍷 𝐒ᴜᴘᴘᴏʀᴛ", url=f"https://t.me/BOT_SUPPORTGROUP"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="❍ 𝐀ᴅᴠᴀɴᴄᴇ ❍",
+                text="๏ 𝐀ᴅᴠᴀɴᴄᴇ",
                 callback_data=f"Pages Forw|0|{videoid}|{chat_id}",
             ),
         ],
