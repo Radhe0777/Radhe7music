@@ -21,10 +21,10 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "𝐎ᴡɴᴇʀ", url=f"https://t.me/rishu1286")
+                        "𝐎ᴡɴᴇʀ", url=f"https://t.me/ll_RADHE7_ll")
                 ],
                 [InlineKeyboardButton(
-                        "𝐎ᴡɴᴇʀ", url=f"https://t.me/ll_RADHE7_ll")
+                        "𝐎ᴡɴᴇʀ", url=f"https://t.me/rishu1286")
             ]
             ]
         ),
@@ -41,10 +41,10 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "𝐎ᴡɴᴇR", url=f"https://t.me/rishu1286")
+                        "𝐎ᴡɴᴇR", url=f"https://t.me/ll_RADHE7_ll")
                 ],
                 [InlineKeyboardButton(
-                        "𝐎ᴡɴᴇʀ", url=f"https://t.me/ll_RADHE7_ll")
+                        "𝐎ᴡɴᴇʀ", url=f"https://t.me/rishu1286")
             ]
             ]
         ),
@@ -61,10 +61,10 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "𝐎ᴡɴᴇʀ", url=f"https://t.me/rishu1286")
+                        "𝐎ᴡɴᴇʀ", url=f"https://t.me/ll_RADHE7_ll")
                 ],
                 [InlineKeyboardButton(
-                        "𝐎ᴡɴᴇʀ", url=f"https://t.me/ll_RADHE7_ll")
+                        "𝐎ᴡɴᴇʀ", url=f"https://t.me/rishu1286")
             ]
             ]
         ),
